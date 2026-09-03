@@ -3,7 +3,7 @@
 #  **ABOUT ME**
 <div align="justify">
 
-Once upon a time (well, currently), a Computer Science student set off on a quest to make sense of Artificial Intelligence and Machine Learning. But deep down, I never really stopped being a Disney kid, the kind who grew up truly believing magic was real ✨, and that belief never quite faded. I’m utterly enchanted by the beauty of far-off lands, especially Europe, Australia, and North America, exploring their wonder mostly through blogs, vlogs, and movies. And somehow, that same “anything’s possible” spirit always finds its way into every project I build, because it turns out even code needs a little pixie dust and imagination to truly come to life 🪄.
+Once upon a time (well, currently), a **Computer Science student** set off on a quest to make sense of **Artificial Intelligence** and **Machine Learning**. But deep down, I never really stopped being a *Disney kid*, the kind who grew up truly believing magic was real ✨, and that belief never quite faded. I’m utterly enchanted by the beauty of far-off lands, especially *Europe, Australia, and North America*, exploring their wonder mostly through blogs, vlogs, and movies. And somehow, that same *“anything’s possible”* spirit always finds its way into every project I build, because <span style="font-family: Georgia, serif;">it turns out even code needs a little **pixie dust** and imagination to truly come to life 🪄</span>
 
 
 </div>
@@ -15,14 +15,14 @@ Once upon a time (well, currently), a Computer Science student set off on a ques
 
 </div>
 
-# **STATISTIC**
+<!-- # **STATISTIC**
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=ZengLLQ&theme=dark&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ZengLLQ&theme=dark&background=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZengLLQ&theme=dark&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+</div> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
