@@ -26,18 +26,17 @@
 
 <div align="center">
 
+![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=log&font=jetbrains&radius=50&size=large&hide_background=true&hide_stats=true&delta_format=both&width=100&height=80)
+
+</div>
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZengLLQ/ZengLLQ/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZengLLQ/ZengLLQ/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZengLLQ/ZengLLQ/output/pacman-contribution-graph.svg">
 </picture>
-
-</div>
-
-
-<div align="center">
-
-![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=log&font=jetbrains&radius=50&size=large&hide_background=true&hide_stats=true&delta_format=both&width=100&height=80)
 
 </div>
 
