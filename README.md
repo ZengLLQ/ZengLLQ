@@ -24,14 +24,6 @@
 
 </div> -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<div align="center">
-
-![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=log&font=jetbrains&radius=50&size=large&hide_background=true&hide_stats=true&delta_format=both)
-
-</div>
-
 <div align="center">
 
 <picture>
@@ -40,7 +32,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZengLLQ/ZengLLQ/output/pacman-contribution-graph.svg">
 </picture>
 
-  </div>
+</div>
+
+
+<div align="center">
+
+![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=log&font=jetbrains&radius=50&size=large&hide_background=true&hide_stats=true&delta_format=both&width=100&height=80)
 
 </div>
 
+</div>
