@@ -28,7 +28,7 @@
 
 <div align="center">
 
-![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=default&scale=log&font=jetbrains&radius=50&size=large&hide_background=true&hide_stats=true&delta_format=both)
+![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=log&font=jetbrains&radius=50&size=large&hide_background=true&hide_stats=true&delta_format=both)
 
 </div>
 
