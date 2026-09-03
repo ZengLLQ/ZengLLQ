@@ -18,9 +18,9 @@ Once upon a time (well, currently), a Computer Science student set off on a ques
 # **STATISTIC**
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=ZengLLQ&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ZengLLQ&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZengLLQ&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=ZengLLQ&theme=dark&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ZengLLQ&theme=dark&background=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZengLLQ&theme=dark&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -37,9 +37,9 @@ Once upon a time (well, currently), a Computer Science student set off on a ques
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ZengLLQ]/[ZengLLQ]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[ZengLLQ]/[ZengLLQ]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZengLLQ/ZengLLQ/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZengLLQ/ZengLLQ/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZengLLQ/ZengLLQ/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
