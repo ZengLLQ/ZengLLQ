@@ -8,7 +8,7 @@
 
 *Making room for curiosity, wonder, and whatever comes next.*
 
-[ABOUT ME](#-about-me) · [TECH STACKS](#-tech-stacks) · [ACTIVITY](#-activity)
+[**ABOUT ME**](#-about-me) · [**TECH STACKS**](#-tech-stacks) · [**ACTIVITY**](#-activity)
 
 </div>
 
