@@ -8,13 +8,13 @@
 
 *Making room for curiosity, wonder, and whatever comes next.*
 
-[About me](#-about-me) · [Tech stacks](#-tech-stacks) · [Activity](#-activity)
+[ABOUT ME](#-about-me) · [TECH STACKS](#-tech-stacks) · [ACTIVITY](#-activity)
 
 </div>
 
 ---
 
-## ✦ About me
+## ✦ ABOUT ME
 
 Once upon a time (well, currently), a **Computer Science student** set off on a quest to make sense of **Artificial Intelligence** and **Machine Learning**. But deep down, I never really stopped being a *Disney kid*, the kind who grew up truly believing magic was real ✨, and that belief never quite faded. I’m utterly enchanted by the beauty of far-off lands, especially *Europe, Australia, and North America*, exploring their wonder mostly through blogs, vlogs, and movies. And somehow, that same *“anything’s possible”* spirit always finds its way into every project I build, because it turns out even code needs a little **pixie dust** and imagination to truly come to life 🪄
 
@@ -33,23 +33,17 @@ There is more to living with depression than I can fit into a few paragraphs, an
 
 <br />
 
-## ✦ Tech stacks
+## ✦ TECH STACKS
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&color=25203D&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&color=25203D&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&color=25203D&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&color=25203D&logo=openjdk&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&color=25203D&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&color=25203D&logo=html5&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&color=25203D&logo=julia&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&color=25203D&logo=kotlin&logoColor=white)
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&color=25203D&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&color=25203D&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&color=25203D&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&color=25203D&logo=ruby&logoColor=white)
-
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&color=25203D&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&color=25203D&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&color=25203D&logo=typescript&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&color=25203D&logo=unrealengine&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&color=25203D&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&color=25203D&logo=swift&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&color=25203D&logo=julia&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&color=25203D&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&color=25203D&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&color=25203D&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&color=25203D&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&color=25203D&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&color=25203D&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&color=25203D&logo=graphql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&color=25203D&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&color=25203D&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&color=25203D&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&color=25203D&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&color=25203D&logo=rust&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&color=25203D&logo=unrealengine&logoColor=white)
 
 </div>
 
 <br />
 
-## ✦ Activity
+## ✦ ACTIVITY
 
 <div align="center">
 
