@@ -45,7 +45,7 @@ There is more to living with depression than I can fit into a few paragraphs, an
 
 <div align="center">
 
-![CommitPulse contribution graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=log&font=jetbrains&radius=50&size=large&hide_background=true&hide_stats=true&delta_format=both&width=100&height=80)
+![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_background=true&hide_stats=true&delta_format=both)
 
 </div>
 
