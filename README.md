@@ -45,6 +45,13 @@ There is more to living with depression than I can fit into a few paragraphs, an
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZengLLQ&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=bd93f9&text_color=c4b5fd)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<div align="center">
+
+![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=true&hide_background=true&hide_stats=true&view=pulse&delta_format=both&grace=0)
+
+</div>
+
+
 </div>
 <br />
 
@@ -55,8 +62,6 @@ There is more to living with depression than I can fit into a few paragraphs, an
 ![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=false&hide_background=true&hide_stats=true&view=monthly&delta_format=absolute&height=86&grace=0) -->
 
 ![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=false&hide_background=true&hide_stats=true&delta_format=both&height=80&grace=0)
-
-![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=true&hide_background=true&hide_stats=true&view=pulse&delta_format=both&grace=0)
 
 
 </div>
