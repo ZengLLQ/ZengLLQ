@@ -8,7 +8,7 @@
 
 *Making room for curiosity, wonder, and whatever comes next.*
 
-[**ABOUT ME**](#-about-me) · [**TECH STACKS**](#-tech-stacks) · [**ACTIVITY**](#-activity)
+[**ABOUT ME**](#-about-me) · [**FEATURED PROJECTS**](#-featured-projects) · [**TECH STACKS**](#-tech-stacks) · [**ACTIVITY**](#-activity)
 
 </div>
 
@@ -32,6 +32,48 @@ There is more to living with depression than I can fit into a few paragraphs, an
 > Artificial intelligence & machine learning · Stories that spark imagination · The beauty of far-off places
 <br />
 
+## ✦ FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/ZengLLQ/whiz-reveal">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ZengLLQ&repo=whiz-reveal&theme=transparent&hide_border=true&title_color=bd93f9&text_color=c4b5fd&icon_color=bd93f9" alt="WhizReveal" />
+</a>
+<a href="https://github.com/ZengLLQ/honora">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ZengLLQ&repo=honora&theme=transparent&hide_border=true&title_color=bd93f9&text_color=c4b5fd&icon_color=bd93f9" alt="Honora" />
+</a>
+
+<a href="https://github.com/ZengLLQ/ieee-754-explorer">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ZengLLQ&repo=ieee-754-explorer&theme=transparent&hide_border=true&title_color=bd93f9&text_color=c4b5fd&icon_color=bd93f9" alt="IEEE 754 Explorer" />
+</a>
+<a href="https://github.com/ZengLLQ/digital-circuit">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ZengLLQ&repo=digital-circuit&theme=transparent&hide_border=true&title_color=bd93f9&text_color=c4b5fd&icon_color=bd93f9" alt="Digital Circuit" />
+</a>
+
+<a href="https://github.com/ZengLLQ/minesweeper">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ZengLLQ&repo=minesweeper&theme=transparent&hide_border=true&title_color=bd93f9&text_color=c4b5fd&icon_color=bd93f9" alt="Minesweeper" />
+</a>
+<a href="https://github.com/ZengLLQ/lottery-ver.2">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ZengLLQ&repo=lottery-ver.2&theme=transparent&hide_border=true&title_color=bd93f9&text_color=c4b5fd&icon_color=bd93f9" alt="Lottery v2" />
+</a>
+
+</div>
+
+<br />
+
+| Repository | Description | Technologies |
+| :--- | :--- | :--- |
+| [**whiz-reveal**](https://github.com/ZengLLQ/whiz-reveal) | Native Windows raffle controller and audience display | `Rust` `Tauri 2` `React` `TypeScript` |
+| [**honora**](https://github.com/ZengLLQ/honora) | Private tutor bank transfer ledger and receipt archive with image compression | `Rust` `Tauri 2` `React` `SQLite` |
+| [**ieee-754-explorer**](https://github.com/ZengLLQ/ieee-754-explorer) | Interactive educational IEEE 754 Converter & Mathematical Derivation Engine | `Rust` `Wasm` `React` `TypeScript` |
+| [**digital-circuit**](https://github.com/ZengLLQ/digital-circuit) | Digital logic circuit app with truth table & Karnaugh map minimization | `TypeScript` `Desktop` |
+| [**minesweeper**](https://github.com/ZengLLQ/minesweeper) | Minimalist desktop Minesweeper with 60fps vector animations & sound effects | `Rust` `egui` |
+| [**lottery-ver.2**](https://github.com/ZengLLQ/lottery-ver.2) | Native Windows lottery draw studio with participant import & audience display | `C++` `Win32` |
+| [**jaycee-personal-branding**](https://github.com/ZengLLQ/jaycee-personal-branding) | Personal portfolio & branding website with blueprint aesthetic & motion | `Next.js` `Tailwind CSS` |
+| [**michelle-farewell**](https://github.com/ZengLLQ/michelle-farewell) | Heartfelt farewell interactive web tribute | `JavaScript` `Creative Web` |
+
+<br />
+
 ## ✦ TECH STACKS
 
 <div align="center">
@@ -43,14 +85,6 @@ There is more to living with depression than I can fit into a few paragraphs, an
 
 ![](https://streak-stats.demolab.com/?user=ZengLLQ&theme=transparent&hide_border=true&ring=bd93f9&fire=bd93f9&currStreakNum=bd93f9&sideNums=bd93f9&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=c4b5fd)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZengLLQ&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=bd93f9&text_color=c4b5fd)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<div align="center">
-
-![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=true&hide_background=true&hide_stats=true&view=pulse&delta_format=both&grace=0)
-
-</div>
-
 
 </div>
 <br />
@@ -58,14 +92,12 @@ There is more to living with depression than I can fit into a few paragraphs, an
 ## ✦ ACTIVITY
 
 <div align="center">
-<!--
-![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=false&hide_background=true&hide_stats=true&view=monthly&delta_format=absolute&height=86&grace=0) -->
 
 ![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=false&hide_background=true&hide_stats=true&delta_format=both&height=80&grace=0)
 
+![CommitPulse Pulse Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=true&hide_background=true&hide_stats=true&view=pulse&delta_format=both&grace=0)
 
 </div>
-
 
 
 ---
