@@ -53,6 +53,7 @@
 
 ![](https://streak-stats.demolab.com/?user=ZengLLQ&theme=transparent&hide_border=true&ring=bd93f9&fire=bd93f9&currStreakNum=bd93f9&sideNums=bd93f9&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=c4b5fd)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZengLLQ&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=bd93f9&text_color=c4b5fd)
+![CommitPulse Pulse Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=true&hide_background=true&hide_stats=true&view=pulse&delta_format=both&grace=0)
 
 </div>
 <br />
@@ -63,7 +64,6 @@
 
 ![CommitPulse Contribution Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=false&hide_background=true&hide_stats=true&delta_format=both&height=80&grace=0)
 
-![CommitPulse Pulse Graph for ZengLLQ](https://commitpulse.vercel.app/api/streak?user=ZengLLQ&theme=dracula&scale=sqrt&font=jetbrains&size=large&hide_title=true&hide_background=true&hide_stats=true&view=pulse&delta_format=both&grace=0)
 
 </div>
 
