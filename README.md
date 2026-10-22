@@ -41,8 +41,8 @@ There is more to living with depression than I can fit into a few paragraphs, an
 </div>
 <div align="center">
 
-![](https://streak-stats.demolab.com/?user=ZengLLQ&theme=transparent&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZengLLQ&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=ZengLLQ&theme=transparent&hide_border=true&ring=bd93f9&fire=bd93f9&currStreakNum=bd93f9&sideNums=bd93f9&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=c4b5fd)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZengLLQ&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=bd93f9&text_color=c4b5fd)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
