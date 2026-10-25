@@ -1,16 +1,11 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="A little logic. A little magic. A starry sky for a curious builder." width="100%" />
+  <img src="assets/header.svg" alt="ZengLLQ — CS Student &amp; AI/ML Explorer" width="880" />
+</p>
+<p align="center">
+  <img src="assets/now.svg" alt="Making room for curiosity, wonder, and whatever comes next." width="720" />
 </p>
 
-<div align="center">
-
-**COMPUTER SCIENCE STUDENT · AI & ML EXPLORER · DISNEY KID AT HEART**
-
-*Making room for curiosity, wonder, and whatever comes next.*
-
 <!-- [**ABOUT ME**](#-about-me) · [**FEATURED PROJECTS**](#-featured-projects) · [**TECH STACKS**](#-tech-stacks) · [**ACTIVITY**](#-activity) -->
-
-</div>
 
 ---
 

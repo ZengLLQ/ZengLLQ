@@ -1,0 +1,128 @@
+<svg id="header-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200" role="img" aria-labelledby="header-title header-desc">
+  <title id="header-title">ZengLLQ — CS Student &amp; AI/ML Explorer</title>
+  <desc id="header-desc">Animated purple-themed profile header for ZengLLQ featuring live AI/ML quest cards, a sequential checklist, and a starlight packet flow.</desc>
+  <defs>
+    <linearGradient id="header-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#131022"/>
+      <stop offset="55%" stop-color="#1c1733"/>
+      <stop offset="100%" stop-color="#25203d"/>
+    </linearGradient>
+    <radialGradient id="header-ambient" cx="0.75" cy="0.5" r="0.45">
+      <stop offset="0%" stop-color="#bd93f9" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#bd93f9" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      #header-svg text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      #header-svg .mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <!-- card background & crisp 1px outer frame -->
+  <rect x="0.5" y="0.5" width="879" height="199" rx="8" fill="url(#header-bg)" stroke="#322b4f" stroke-width="1"/>
+  <rect x="1" y="1" width="878" height="198" rx="7.5" fill="url(#header-ambient)"/>
+
+  <!-- half-pixel-aligned architectural guide lines -->
+  <line x1="1" y1="34.5" x2="879" y2="34.5" stroke="#322b4f" stroke-width="1"/>
+  <line x1="1" y1="165.5" x2="879" y2="165.5" stroke="#322b4f" stroke-width="1"/>
+  <line x1="440.5" y1="34.5" x2="440.5" y2="165.5" stroke="#322b4f" stroke-width="1" stroke-dasharray="2 6"/>
+
+  <!-- meta labels (vector git-branch icon avoids U+2387 font fallback shifts) -->
+  <g fill="none" stroke="#9489b8" stroke-width="1.1" stroke-linecap="round">
+    <circle cx="25.5" cy="14.8" r="1.2"/>
+    <circle cx="25.5" cy="22.2" r="1.2"/>
+    <circle cx="30.2" cy="16.2" r="1.2"/>
+    <line x1="25.5" y1="16.1" x2="25.5" y2="20.9"/>
+    <path d="M30.2 17.5 C30.2 19.3 25.5 18.6 25.5 20.2"/>
+  </g>
+  <text x="35" y="22" class="mono" font-size="10" fill="#9489b8" letter-spacing="1">main</text>
+  <text x="24" y="183" class="mono" font-size="10" fill="#9489b8" letter-spacing="1">zengllq://logic.and.magic</text>
+  <text x="841" y="183" text-anchor="end" class="mono" font-size="10" fill="#9489b8" letter-spacing="1">v2.6.0</text>
+
+  <!-- blinking terminal cursor -->
+  <rect x="849" y="173" width="7" height="12" rx="1" fill="#bd93f9">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- left column: identity -->
+  <text x="24" y="88" font-size="34" font-weight="600" fill="#faf5ff" letter-spacing="0.5">ZengLLQ</text>
+  <text x="24" y="115" font-size="12" font-weight="600" fill="#bd93f9" letter-spacing="2.5">CS STUDENT · AI &amp; ML EXPLORER</text>
+  <text x="24" y="139" class="mono" font-size="11" fill="#9489b8" letter-spacing="0.6">Python · TypeScript · Rust · Pixie Dust · Wonder</text>
+
+  <!-- right column tier 1: training / spark card -->
+  <g>
+    <rect x="468.5" y="48.5" width="163" height="53" rx="6" fill="#1b1630" stroke="#322b4f" stroke-width="1"/>
+    <circle cx="482" cy="61" r="3" fill="#bd93f9">
+      <animate attributeName="opacity" values="1;0.45;1" keyTimes="0;0.5;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="492" y="64" class="mono" font-size="9" fill="#9489b8">RUN&#160;&#160;model.train()</text>
+    <rect x="480" y="72" width="92" height="4" rx="2" fill="#2b2447"/>
+    <rect x="480" y="80" width="124" height="4" rx="2" fill="#2b2447"/>
+    <g opacity="1">
+      <path d="M483.5 89.6 L484.4 92.1 L486.9 93 L484.4 93.9 L483.5 96.4 L482.6 93.9 L480.1 93 L482.6 92.1 Z" fill="#bd93f9"/>
+      <text x="490" y="96" class="mono" font-size="8" fill="#c4b5fd">loss 0.014 · converged</text>
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.68;0.78;0.88;1" dur="4.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- right column tier 1: quests / exploring card -->
+  <g>
+    <rect x="648.5" y="48.5" width="207" height="53" rx="6" fill="#1b1630" stroke="#322b4f" stroke-width="1"/>
+    <text x="662" y="64" class="mono" font-size="8" fill="#9489b8" letter-spacing="1">QUESTS / EXPLORING</text>
+    <text x="662" y="80" class="mono" font-size="9" fill="#c4b5fd" opacity="1">AI&#160;&#160;&#160;neural-architectures<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.24;0.28;0.96;1" dur="9s" repeatCount="indefinite"/></text>
+    <text x="662" y="80" class="mono" font-size="9" fill="#c4b5fd" opacity="0">ML&#160;&#160;&#160;deep-learning · nlp<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30;0.34;0.58;0.62;1" dur="9s" repeatCount="indefinite"/></text>
+    <text x="662" y="80" class="mono" font-size="9" fill="#c4b5fd" opacity="0">DEV&#160;&#160;worlds · pixie-dust<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.64;0.68;0.91;0.95;1" dur="9s" repeatCount="indefinite"/></text>
+    <rect x="662" y="90" width="180" height="4" rx="2" fill="#2b2447"/>
+    <rect x="662" y="90" width="18" height="4" rx="2" fill="#bd93f9" fill-opacity="0.65">
+      <animate attributeName="width" values="18;180;180;0;18" keyTimes="0;0.81;0.89;0.91;1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.65;0.65;0;0;0.65;0.65" keyTimes="0;0.85;0.89;0.91;0.95;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- right column tier 2: vector checklist (half-pixel boxes + equal 1.8s check cadence) -->
+  <g>
+    <!-- item 1: curious mind -->
+    <rect x="468.5" y="114.5" width="8" height="8" rx="1.5" fill="none" stroke="#bd93f9" stroke-width="1">
+      <animate attributeName="stroke" values="#bd93f9;#bd93f9;#9489b8;#9489b8;#bd93f9" keyTimes="0;0.85;0.90;0.95;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <g opacity="1">
+      <rect x="468.5" y="114.5" width="8" height="8" rx="1.5" fill="#bd93f9" fill-opacity="0.2"/>
+      <path d="M470.3 118.6 l1.5 1.5 l3.0 -3.1" fill="none" stroke="#bd93f9" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.85;0.90;0.95;1" dur="6s" repeatCount="indefinite"/>
+    </g>
+    <text x="481" y="122" class="mono" font-size="9" fill="#bd93f9">curious mind<animate attributeName="fill" values="#bd93f9;#bd93f9;#9489b8;#9489b8;#bd93f9" keyTimes="0;0.85;0.90;0.95;1" dur="6s" repeatCount="indefinite"/></text>
+
+    <!-- item 2: clean logic -->
+    <rect x="594.5" y="114.5" width="8" height="8" rx="1.5" fill="none" stroke="#9489b8" stroke-width="1">
+      <animate attributeName="stroke" values="#9489b8;#9489b8;#bd93f9;#bd93f9;#9489b8;#9489b8" keyTimes="0;0.25;0.30;0.85;0.90;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <g opacity="0">
+      <rect x="594.5" y="114.5" width="8" height="8" rx="1.5" fill="#bd93f9" fill-opacity="0.2"/>
+      <path d="M596.3 118.6 l1.5 1.5 l3.0 -3.1" fill="none" stroke="#bd93f9" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.30;0.85;0.90;1" dur="6s" repeatCount="indefinite"/>
+    </g>
+    <text x="607" y="122" class="mono" font-size="9" fill="#9489b8">clean logic<animate attributeName="fill" values="#9489b8;#9489b8;#bd93f9;#bd93f9;#9489b8;#9489b8" keyTimes="0;0.25;0.30;0.85;0.90;1" dur="6s" repeatCount="indefinite"/></text>
+
+    <!-- item 3: pixie dust -->
+    <rect x="720.5" y="114.5" width="8" height="8" rx="1.5" fill="none" stroke="#9489b8" stroke-width="1">
+      <animate attributeName="stroke" values="#9489b8;#9489b8;#bd93f9;#bd93f9;#9489b8;#9489b8" keyTimes="0;0.55;0.60;0.85;0.90;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <g opacity="0">
+      <rect x="720.5" y="114.5" width="8" height="8" rx="1.5" fill="#bd93f9" fill-opacity="0.2"/>
+      <path d="M722.3 118.6 l1.5 1.5 l3.0 -3.1" fill="none" stroke="#bd93f9" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55;0.60;0.85;0.90;1" dur="6s" repeatCount="indefinite"/>
+    </g>
+    <text x="733" y="122" class="mono" font-size="9" fill="#9489b8">pixie dust<animate attributeName="fill" values="#9489b8;#9489b8;#bd93f9;#bd93f9;#9489b8;#9489b8" keyTimes="0;0.55;0.60;0.85;0.90;1" dur="6s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- right column tier 3: bidirectional packet / starlight flow -->
+  <text x="468" y="143" class="mono" font-size="8" fill="#9489b8">SYNC /v1/imagination</text>
+  <line x1="468" y1="152.5" x2="856" y2="152.5" stroke="#322b4f" stroke-width="1"/>
+  <circle cx="468" cy="152.5" r="3" fill="#c4b5fd" opacity="0">
+    <animate attributeName="cx" values="468;856" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="856" cy="152.5" r="3" fill="#bd93f9" opacity="0">
+    <animate attributeName="cx" values="856;468" dur="4s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="4s" begin="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
