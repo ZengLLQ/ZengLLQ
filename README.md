@@ -59,9 +59,6 @@
         <img src="https://img.shields.io/badge/Go_(Golang)-25203D?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go / Golang" />
         <img src="https://img.shields.io/badge/TypeScript-25203D?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
       </p>
-      <p>
-        <sub><b>Frameworks &amp; Stack:</b> Next.js · React · Nuxt · Vue.js · Tailwind CSS · NestJS · Fastify · Chi (go-chi) · Tauri</sub>
-      </p>
     </td>
     <td width="50%" valign="top">
       <p>
@@ -77,9 +74,6 @@
         <img src="https://img.shields.io/badge/Go_(Golang)-25203D?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go / Golang" />
         <img src="https://img.shields.io/badge/Bash_Script-25203D?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash Script" />
         <img src="https://img.shields.io/badge/PowerShell-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIyLjUiIHk9IjQiIHdpZHRoPSIxOSIgaGVpZ2h0PSIxNiIgcng9IjMiLz48cGF0aCBkPSJNNyA5bDQgMy00IDNtNS41IDBIMTciLz48L3N2Zz4%3D" alt="PowerShell" />
-      </p>
-      <p>
-        <sub><b>Frameworks &amp; Stack:</b> Tauri · egui · Tkinter · FastAPI · Chi (go-chi) · Next.js</sub>
       </p>
     </td>
   </tr>
@@ -104,9 +98,6 @@
         <img src="https://img.shields.io/badge/SQL-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djE0YzAgMS42NiAzLjU4IDMgOCAzczgtMS4zNCA4LTNWNSIvPjxwYXRoIGQ9Ik00IDEyYzAgMS42NiAzLjU4IDMgOCAzczgtMS4zNCA4LTMiLz48L3N2Zz4%3D" alt="SQL" />
         <img src="https://img.shields.io/badge/GraphQL-25203D?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL" />
       </p>
-      <p>
-        <sub><b>Frameworks &amp; Stack:</b> ASP.NET Core · FastAPI · Chi (go-chi) · Django · Laravel · Ruby on Rails · Wasp · NestJS · Express.js · Fastify · Elysia · Entity Framework Core</sub>
-      </p>
     </td>
     <td width="50%" valign="top">
       <p>
@@ -125,9 +116,6 @@
         <img src="https://img.shields.io/badge/Prolog-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjUiIHI9IjIuNSIvPjxjaXJjbGUgY3g9IjYiIGN5PSIxOCIgcj0iMi41Ii8%2BPGNpcmNsZSBjeD0iMTgiIGN5PSIxOCIgcj0iMi41Ii8%2BPHBhdGggZD0iTTEwLjUgNy4yTDcgMTUuNW02LjUtOC4zTDE3IDE1LjVNOC41IDE4aDciLz48L3N2Zz4%3D" alt="Prolog" />
         <img src="https://img.shields.io/badge/TypeScript-25203D?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
       </p>
-      <p>
-        <sub><b>Frameworks &amp; Stack:</b> Vercel AI SDK · LangChain.js · Mastra · FastAPI · Django · Next.js</sub>
-      </p>
     </td>
   </tr>
   <tr>
@@ -144,18 +132,17 @@
         <img src="https://img.shields.io/badge/Swift-25203D?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift" />
         <img src="https://img.shields.io/badge/Kotlin-25203D?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
       </p>
-      <p>
-        <sub><b>Frameworks &amp; Engines:</b> Next.js · Nuxt · SvelteKit · Astro · Remix · Wasp · React · Vue.js · Angular · SolidJS · Qwik · Tailwind CSS · Tauri · Unreal Engine</sub>
-      </p>
     </td>
   </tr>
 </table>
+
+## Frameworks
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>Web &amp; Fullstack Frameworks</b><br />
+        <b>Web &amp; Fullstack</b><br />
         <sub>SSR, Islands, Meta-Frameworks &amp; Fullstack MVC</sub>
       </p>
       <p>
@@ -173,7 +160,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>Backend &amp; API Frameworks</b><br />
+        <b>Back-End &amp; API</b><br />
         <sub>High-Throughput HTTP Routers, Microservices &amp; REST/RPC Servers</sub>
       </p>
       <p>
@@ -189,7 +176,7 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>Frontend &amp; Reactive UI Frameworks</b><br />
+        <b>Front-End &amp; Reactive UI</b><br />
         <sub>Component Architectures, Fine-Grained Reactivity &amp; Resumability</sub>
       </p>
       <p>
@@ -215,7 +202,7 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>AI &amp; Agentic Frameworks</b><br />
+        <b>AI &amp; Agentic</b><br />
         <sub>LLM Orchestration, Streaming AI UI &amp; Autonomous Agents</sub>
       </p>
       <p>
@@ -237,7 +224,7 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>CSS / Styling Framework</b><br />
+        <b>CSS / Styling</b><br />
         <sub>Design Tokens &amp; Utility-First Styling Architecture</sub>
       </p>
       <p>
