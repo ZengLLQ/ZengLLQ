@@ -15,9 +15,18 @@ When creating or updating `README.md`, stats widgets, badges, or SVG assets in t
 - **Backgrounds & Surfaces**:
   - Deep night-sky gradient: `#131022` -> `#1c1733` -> `#25203D`
   - Elevated mini-card surface: `#1b1630` (skeleton bars: `#2b2447`)
-  - Skill badge fill: `#25203D` with white logos/text
+  - Skill badge fill: single-segment Shields.io `https://img.shields.io/badge/<Label>-25203D?style=for-the-badge&logo=<slug>&logoColor=white` (escape `&` as `&amp;` inside HTML `<img src="...">` attributes; if a brand is missing from Simple Icons, supply a minimal `#fff` `24x24` `logo=data:image/svg%2Bxml;base64,...` vector icon so 100% of badges display a white icon)
   - 1px card & divider stroke: `#322b4f`
   - External stats widgets (`streak-stats`, `github-readme-stats`): `theme=transparent&hide_border=true`
+
+## Tech Stack & Project Pillar Taxonomy
+
+- Maintain the **4 Main Project Pillars** architecture across `README.md` and `assets/tech-domains.svg`:
+  1. **01 · Blockchain** (Smart Contracts · Zero-Knowledge · Decentralized Protocols)
+  2. **02 · Cybersecurity** (Low-Level Systems · Binary Analysis · SecOps & Native Tooling)
+  3. **03 · Backend** (Distributed Services · Cloud-Native Integration · Data APIs)
+  4. **04 · AI & Machine Learning** (Accelerated GPU Compute · Deep Learning · Symbolic & Statistical ML)
+- Keep 100% cross-reference parity between `By Project Focus — 4 Main Pillars` (`Table 1`, including `Web, Mobile & Interactive Foundations`) and `Frameworks, SDKs & Engines — Complete Classification` (`Table 2`).
 
 ## GitHub README Animated SVG Guardrails
 

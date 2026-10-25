@@ -37,11 +37,230 @@
 
 ## ✦ TECH STACKS
 
-<div align="center">
+<p align="center">
+  <img src="assets/tech-domains.svg" alt="ZengLLQ Core Project Domains — Blockchain, Cybersecurity, Backend, AI &amp; Machine Learning" width="880" />
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&color=25203D&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&color=25203D&logo=swift&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&color=25203D&logo=julia&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&color=25203D&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&color=25203D&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&color=25203D&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&color=25203D&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&color=25203D&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&color=25203D&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&color=25203D&logo=graphql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&color=25203D&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&color=25203D&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&color=25203D&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&color=25203D&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&color=25203D&logo=rust&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&color=25203D&logo=unrealengine&logoColor=white)
+### ✧ By Project Focus — 4 Main Pillars
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <b>01 · Blockchain</b><br />
+        <sub>Smart Contracts · Zero-Knowledge · Decentralized Protocols</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Solidity-25203D?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" alt="Solidity" />
+        <img src="https://img.shields.io/badge/Rust-25203D?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Move-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMi41TDQgN3YxMGw4IDQuNSA4LTQuNVY3bC04LTQuNXoiLz48cGF0aCBkPSJNNCA3bDggNC41TDIwIDdtLTggNC41djEwIi8%2BPC9zdmc%2B" alt="Move" />
+        <img src="https://img.shields.io/badge/Cairo-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMy41TDMgMTkuNWgxOEwxMiAzLjV6Ii8%2BPHBhdGggZD0iTTEyIDMuNXYxNiIvPjwvc3ZnPg%3D%3D" alt="Cairo" />
+        <img src="https://img.shields.io/badge/Vyper-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTMuNSA0aDQuNkwxMiAxMS44IDE1LjkgNGg0LjZMMTIgMjAuNSAzLjUgNHptNS45IDBoNS4yTDEyIDkuMiA5LjQgNHoiLz48L3N2Zz4%3D" alt="Vyper" />
+        <img src="https://img.shields.io/badge/Clarity-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA5LjVoMTZNNCAxNC41aDE2TTcuNSA0TDEyIDkuNSAxNi41IDRNNy41IDIwTDEyIDE0LjUgMTYuNSAyMCIvPjwvc3ZnPg%3D%3D" alt="Clarity" />
+        <img src="https://img.shields.io/badge/Go_(Golang)-25203D?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go / Golang" />
+        <img src="https://img.shields.io/badge/TypeScript-25203D?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+      </p>
+      <p>
+        <sub><b>Frameworks &amp; Stack:</b> Next.js · React · Nuxt · Vue.js · Tailwind CSS · NestJS · Fastify · Chi (go-chi) · Tauri</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <b>02 · Cybersecurity</b><br />
+        <sub>Low-Level Systems · Binary Analysis · SecOps &amp; Native Tooling</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Assembly-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iNSIgeT0iNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIvPjxyZWN0IHg9IjkiIHk9IjkiIHdpZHRoPSI2IiBoZWlnaHQ9IjYiLz48cGF0aCBkPSJNOSAydjNtNi0zdjNNOSAxOXYzbTYtM3YzTTIgOWgzbS0zIDZoM20xNC02aDNtLTMgNmgzIi8%2BPC9zdmc%2B" alt="Assembly" />
+        <img src="https://img.shields.io/badge/C%2B%2B-25203D?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Rust-25203D?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Nim-25203D?style=for-the-badge&amp;logo=nim&amp;logoColor=white" alt="Nim" />
+        <img src="https://img.shields.io/badge/Python-25203D?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Go_(Golang)-25203D?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go / Golang" />
+        <img src="https://img.shields.io/badge/Bash_Script-25203D?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash Script" />
+        <img src="https://img.shields.io/badge/PowerShell-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIyLjUiIHk9IjQiIHdpZHRoPSIxOSIgaGVpZ2h0PSIxNiIgcng9IjMiLz48cGF0aCBkPSJNNyA5bDQgMy00IDNtNS41IDBIMTciLz48L3N2Zz4%3D" alt="PowerShell" />
+      </p>
+      <p>
+        <sub><b>Frameworks &amp; Stack:</b> Tauri · egui · Tkinter · FastAPI · Chi (go-chi) · Next.js</sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <b>03 · Backend</b><br />
+        <sub>Distributed Services · Cloud-Native Integration · Data APIs</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Go_(Golang)-25203D?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go / Golang" />
+        <img src="https://img.shields.io/badge/Elixir-25203D?style=for-the-badge&amp;logo=elixir&amp;logoColor=white" alt="Elixir" />
+        <img src="https://img.shields.io/badge/Ballerina-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iMi41Ii8%2BPGNpcmNsZSBjeD0iMTgiIGN5PSI2IiByPSIyLjUiLz48Y2lyY2xlIGN4PSI2IiBjeT0iMTgiIHI9IjIuNSIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjIuNSIvPjxwYXRoIGQ9Ik04LjUgNmg3TTYgOC41djdtMTItN3Y3bS05LjUgMi41aDdNOCA4bDggOCIvPjwvc3ZnPg%3D%3D" alt="Ballerina" />
+        <img src="https://img.shields.io/badge/Rust-25203D?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Python-25203D?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-25203D?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-25203D?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Java-25203D?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Kotlin-25203D?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/PHP-25203D?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Ruby-25203D?style=for-the-badge&amp;logo=ruby&amp;logoColor=white" alt="Ruby" />
+        <img src="https://img.shields.io/badge/SQL-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djE0YzAgMS42NiAzLjU4IDMgOCAzczgtMS4zNCA4LTNWNSIvPjxwYXRoIGQ9Ik00IDEyYzAgMS42NiAzLjU4IDMgOCAzczgtMS4zNCA4LTMiLz48L3N2Zz4%3D" alt="SQL" />
+        <img src="https://img.shields.io/badge/GraphQL-25203D?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL" />
+      </p>
+      <p>
+        <sub><b>Frameworks &amp; Stack:</b> ASP.NET Core · FastAPI · Chi (go-chi) · Django · Laravel · Ruby on Rails · Wasp · NestJS · Express.js · Fastify · Elysia · Entity Framework Core</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <b>04 · AI &amp; Machine Learning</b><br />
+        <sub>Accelerated GPU Compute · Deep Learning · Symbolic &amp; Statistical ML</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-25203D?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Mojo-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMi41YzEuNSAzLjUgNS41IDYgNS41IDExYTUuNSA1LjUgMCAwIDEtMTEgMGMwLTIuNiAxLjQtNC43IDMtNi40LjMgMS45IDEuMyAzIDIuNSAzLjQtLjUtMi40LS4yLTUuMyAwLTh6Ii8%2BPC9zdmc%2B" alt="Mojo" />
+        <img src="https://img.shields.io/badge/CUDA-25203D?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="CUDA" />
+        <img src="https://img.shields.io/badge/C%2B%2B-25203D?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Julia-25203D?style=for-the-badge&amp;logo=julia&amp;logoColor=white" alt="Julia" />
+        <img src="https://img.shields.io/badge/R-25203D?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R" />
+        <img src="https://img.shields.io/badge/MATLAB-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxNi41bDUtNCA0LTguNSA0LjUgMTEuNSA0LjUtMy41TDE1IDIwbC00LjUtNC41TDMgMTYuNXoiLz48L3N2Zz4%3D" alt="MATLAB" />
+        <img src="https://img.shields.io/badge/Lisp-25203D?style=for-the-badge&amp;logo=commonlisp&amp;logoColor=white" alt="Lisp" />
+        <img src="https://img.shields.io/badge/Prolog-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjUiIHI9IjIuNSIvPjxjaXJjbGUgY3g9IjYiIGN5PSIxOCIgcj0iMi41Ii8%2BPGNpcmNsZSBjeD0iMTgiIGN5PSIxOCIgcj0iMi41Ii8%2BPHBhdGggZD0iTTEwLjUgNy4yTDcgMTUuNW02LjUtOC4zTDE3IDE1LjVNOC41IDE4aDciLz48L3N2Zz4%3D" alt="Prolog" />
+        <img src="https://img.shields.io/badge/TypeScript-25203D?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+      </p>
+      <p>
+        <sub><b>Frameworks &amp; Stack:</b> Vercel AI SDK · LangChain.js · Mastra · FastAPI · Django · Next.js</sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p>
+        <b>Web, Mobile &amp; Interactive Foundations</b><br />
+        <sub>Markup, Styling, Cross-Platform Mobile &amp; Real-Time Simulation</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-25203D?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-25203D?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/TypeScript-25203D?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-25203D?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Swift-25203D?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift" />
+        <img src="https://img.shields.io/badge/Kotlin-25203D?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+      </p>
+      <p>
+        <sub><b>Frameworks &amp; Engines:</b> Next.js · Nuxt · SvelteKit · Astro · Remix · Wasp · React · Vue.js · Angular · SolidJS · Qwik · Tailwind CSS · Tauri · Unreal Engine</sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### ✧ Frameworks, SDKs &amp; Engines — Complete Classification
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <b>Web &amp; Fullstack Frameworks</b><br />
+        <sub>SSR, Islands, Meta-Frameworks &amp; Fullstack MVC</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-25203D?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-25203D?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core" />
+        <img src="https://img.shields.io/badge/Nuxt-25203D?style=for-the-badge&amp;logo=nuxt&amp;logoColor=white" alt="Nuxt" />
+        <img src="https://img.shields.io/badge/SvelteKit-25203D?style=for-the-badge&amp;logo=svelte&amp;logoColor=white" alt="SvelteKit" />
+        <img src="https://img.shields.io/badge/Astro-25203D?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Astro" />
+        <img src="https://img.shields.io/badge/Remix-25203D?style=for-the-badge&amp;logo=remix&amp;logoColor=white" alt="Remix" />
+        <img src="https://img.shields.io/badge/Wasp-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyA2bDQuNSAxMkwxMiA4LjUgMTYuNSAxOCAyMSA2Ii8%2BPC9zdmc%2B" alt="Wasp" />
+        <img src="https://img.shields.io/badge/Django-25203D?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Laravel-25203D?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Ruby_on_Rails-25203D?style=for-the-badge&amp;logo=rubyonrails&amp;logoColor=white" alt="Ruby on Rails" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <b>Backend &amp; API Frameworks</b><br />
+        <sub>High-Throughput HTTP Routers, Microservices &amp; REST/RPC Servers</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-25203D?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Chi_(go--chi)-25203D?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Chi (go-chi)" />
+        <img src="https://img.shields.io/badge/Express.js-25203D?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/NestJS-25203D?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/Fastify-25203D?style=for-the-badge&amp;logo=fastify&amp;logoColor=white" alt="Fastify" />
+        <img src="https://img.shields.io/badge/Elysia-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgNEMxMyA0IDcgOC41IDUgMTZsLTIgNCA0LTJjNy41LTIgMTItOCAxMy0xNHoiLz48cGF0aCBkPSJNOSAxNWw2LTYiLz48L3N2Zz4%3D" alt="Elysia" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <b>Frontend &amp; Reactive UI Frameworks</b><br />
+        <sub>Component Architectures, Fine-Grained Reactivity &amp; Resumability</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-25203D?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Vue.js-25203D?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue.js" />
+        <img src="https://img.shields.io/badge/Angular-25203D?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/SolidJS-25203D?style=for-the-badge&amp;logo=solid&amp;logoColor=white" alt="SolidJS" />
+        <img src="https://img.shields.io/badge/Qwik-25203D?style=for-the-badge&amp;logo=qwik&amp;logoColor=white" alt="Qwik" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <b>Desktop Application &amp; GUI Frameworks</b><br />
+        <sub>Native Cross-Platform Shells &amp; Immediate-Mode Interfaces</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Tauri-25203D?style=for-the-badge&amp;logo=tauri&amp;logoColor=white" alt="Tauri" />
+        <img src="https://img.shields.io/badge/Tkinter-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIzIiB5PSI0IiB3aWR0aD0iMTgiIGhlaWdodD0iMTYiIHJ4PSIyLjUiLz48cGF0aCBkPSJNMyA5aDE4Ii8%2BPGNpcmNsZSBjeD0iNi41IiBjeT0iNi41IiByPSIxIiBmaWxsPSIjZmZmIiBzdHJva2U9Im5vbmUiLz48Y2lyY2xlIGN4PSI5LjgiIGN5PSI2LjUiIHI9IjEiIGZpbGw9IiNmZmYiIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg%3D%3D" alt="Tkinter" />
+        <img src="https://img.shields.io/badge/egui-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA3aDE2TTQgMTJoMTZNNCAxN2gxNiIvPjxjaXJjbGUgY3g9IjkiIGN5PSI3IiByPSIyIiBmaWxsPSIjMjUyMDNEIi8%2BPGNpcmNsZSBjeD0iMTUiIGN5PSIxMiIgcj0iMiIgZmlsbD0iIzI1MjAzRCIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTciIHI9IjIiIGZpbGw9IiMyNTIwM0QiLz48L3N2Zz4%3D" alt="egui" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <b>AI &amp; Agentic Frameworks</b><br />
+        <sub>LLM Orchestration, Streaming AI UI &amp; Autonomous Agents</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Vercel_AI_SDK-25203D?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel AI SDK" />
+        <img src="https://img.shields.io/badge/LangChain.js-25203D?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain.js" />
+        <img src="https://img.shields.io/badge/Mastra-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSI1IiBjeT0iMTIiIHI9IjIuNSIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iNiIgcj0iMi41Ii8%2BPGNpcmNsZSBjeD0iMTkiIGN5PSIxOCIgcj0iMi41Ii8%2BPHBhdGggZD0iTTcuNSAxMUwxNi41IDdtLTkgNmw5IDRNMTkgOC41djciLz48L3N2Zz4%3D" alt="Mastra" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <b>ORM / Data Access Framework</b><br />
+        <sub>Type-Safe Object-Relational Mapping &amp; Schema Migrations</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Entity_Framework_Core-25203D?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="Entity Framework Core" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <b>CSS / Styling Framework</b><br />
+        <sub>Design Tokens &amp; Utility-First Styling Architecture</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-25203D?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <b>3D &amp; Real-Time Interactive Engine</b><br />
+        <sub>Simulation, Real-Time Rendering &amp; World Building</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Unreal_Engine-25203D?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" alt="Unreal Engine" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
 
 ![](https://streak-stats.demolab.com/?user=ZengLLQ&theme=transparent&hide_border=true&ring=bd93f9&fire=bd93f9&currStreakNum=bd93f9&sideNums=bd93f9&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=c4b5fd)
