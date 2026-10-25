@@ -41,13 +41,12 @@
   <img src="assets/tech-domains.svg" alt="ZengLLQ Core Project Domains — Blockchain, Cybersecurity, Backend, AI &amp; Machine Learning" width="880" />
 </p>
 
-### ✧ By Project Focus — 4 Main Pillars
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>01 · Blockchain</b><br />
+        <b>Blockchain</b><br />
         <sub>Smart Contracts · Zero-Knowledge · Decentralized Protocols</sub>
       </p>
       <p>
@@ -66,7 +65,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>02 · Cybersecurity</b><br />
+        <b>Cybersecurity</b><br />
         <sub>Low-Level Systems · Binary Analysis · SecOps &amp; Native Tooling</sub>
       </p>
       <p>
@@ -87,7 +86,7 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>03 · Backend</b><br />
+        <b>Back-End</b><br />
         <sub>Distributed Services · Cloud-Native Integration · Data APIs</sub>
       </p>
       <p>
@@ -111,7 +110,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>04 · AI &amp; Machine Learning</b><br />
+        <b>AI &amp; Machine Learning</b><br />
         <sub>Accelerated GPU Compute · Deep Learning · Symbolic &amp; Statistical ML</sub>
       </p>
       <p>
@@ -151,8 +150,6 @@
     </td>
   </tr>
 </table>
-
-### ✧ Frameworks, SDKs &amp; Engines — Complete Classification
 
 <table>
   <tr>
