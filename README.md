@@ -130,8 +130,6 @@
   </tr>
 </table>
 
-## Frameworks
-
 <p align="center">
   <img src="assets/tech-frameworks.svg" alt="ZengLLQ Frameworks, SDKs &amp; Engines — Fullstack &amp; Reactive UI, Back-End &amp; ORM, AI &amp; Agentic, Desktop GUI &amp; 3D Engine" width="100%" />
 </p>
