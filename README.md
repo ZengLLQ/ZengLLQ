@@ -213,7 +213,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>ORM / Data Access Framework</b><br />
+        <b>ORM / Data Access</b><br />
         <sub>Type-Safe Object-Relational Mapping &amp; Schema Migrations</sub>
       </p>
       <p>
