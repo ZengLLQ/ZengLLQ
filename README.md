@@ -7,8 +7,6 @@
 
 <!-- [**ABOUT ME**](#-about-me) · [**FEATURED PROJECTS**](#-featured-projects) · [**TECH STACKS**](#-tech-stacks) · [**ACTIVITY**](#-activity) -->
 
----
-
 ## ✦ ABOUT ME
 
 <p align="justify">
