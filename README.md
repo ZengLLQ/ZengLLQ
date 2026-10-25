@@ -38,16 +38,14 @@
 ## ✦ TECH STACKS
 
 <p align="center">
-  <img src="assets/tech-domains.svg" alt="ZengLLQ Core Project Domains — Blockchain, Cybersecurity, Backend, AI &amp; Machine Learning" width="880" />
+  <img src="assets/tech-domains.svg" alt="ZengLLQ Core Project Domains — Blockchain, Cybersecurity, Back-End, AI &amp; Machine Learning" width="100%" />
 </p>
-
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>Blockchain</b><br />
-        <sub>Smart Contracts · Zero-Knowledge · Decentralized Protocols</sub>
+        <b>Blockchain</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Solidity-25203D?style=for-the-badge&amp;logo=solidity&amp;logoColor=white" alt="Solidity" />
@@ -62,8 +60,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>Cybersecurity</b><br />
-        <sub>Low-Level Systems · Binary Analysis · SecOps &amp; Native Tooling</sub>
+        <b>Cybersecurity</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Assembly-25203D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iNSIgeT0iNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIvPjxyZWN0IHg9IjkiIHk9IjkiIHdpZHRoPSI2IiBoZWlnaHQ9IjYiLz48cGF0aCBkPSJNOSAydjNtNi0zdjNNOSAxOXYzbTYtM3YzTTIgOWgzbS0zIDZoM20xNC02aDNtLTMgNmgzIi8%2BPC9zdmc%2B" alt="Assembly" />
@@ -80,8 +77,7 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>Back-End</b><br />
-        <sub>Distributed Services · Cloud-Native Integration · Data APIs</sub>
+        <b>Back-End</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Go_(Golang)-25203D?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go / Golang" />
@@ -101,8 +97,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>AI &amp; Machine Learning</b><br />
-        <sub>Accelerated GPU Compute · Deep Learning · Symbolic &amp; Statistical ML</sub>
+        <b>AI &amp; Machine Learning</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-25203D?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
@@ -121,8 +116,7 @@
   <tr>
     <td colspan="2" valign="top">
       <p>
-        <b>Web, Mobile &amp; Interactive Foundations</b><br />
-        <sub>Markup, Styling, Cross-Platform Mobile &amp; Real-Time Simulation</sub>
+        <b>Web, Mobile &amp; Interactive Foundations</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-25203D?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
@@ -138,12 +132,15 @@
 
 ## Frameworks
 
+<p align="center">
+  <img src="assets/tech-frameworks.svg" alt="ZengLLQ Frameworks, SDKs &amp; Engines — Fullstack &amp; Reactive UI, Back-End &amp; ORM, AI &amp; Agentic, Desktop GUI &amp; 3D Engine" width="100%" />
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>Web &amp; Fullstack</b><br />
-        <sub>SSR, Islands, Meta-Frameworks &amp; Fullstack MVC</sub>
+        <b>Web &amp; Fullstack</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-25203D?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
@@ -160,8 +157,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>Back-End &amp; API</b><br />
-        <sub>High-Throughput HTTP Routers, Microservices &amp; REST/RPC Servers</sub>
+        <b>Back-End &amp; API</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-25203D?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
@@ -176,8 +172,7 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>Front-End &amp; Reactive UI</b><br />
-        <sub>Component Architectures, Fine-Grained Reactivity &amp; Resumability</sub>
+        <b>Front-End &amp; Reactive UI</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-25203D?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
@@ -189,8 +184,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>Desktop Application &amp; GUI</b><br />
-        <sub>Native Cross-Platform Shells &amp; Immediate-Mode Interfaces</sub>
+        <b>Desktop Application &amp; GUI</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Tauri-25203D?style=for-the-badge&amp;logo=tauri&amp;logoColor=white" alt="Tauri" />
@@ -202,8 +196,7 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>AI &amp; Agentic</b><br />
-        <sub>LLM Orchestration, Streaming AI UI &amp; Autonomous Agents</sub>
+        <b>AI &amp; Agentic</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Vercel_AI_SDK-25203D?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel AI SDK" />
@@ -213,8 +206,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>ORM / Data Access</b><br />
-        <sub>Type-Safe Object-Relational Mapping &amp; Schema Migrations</sub>
+        <b>ORM / Data Access</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Entity_Framework_Core-25203D?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="Entity Framework Core" />
@@ -224,8 +216,7 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>CSS / Styling</b><br />
-        <sub>Design Tokens &amp; Utility-First Styling Architecture</sub>
+        <b>CSS / Styling</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Tailwind_CSS-25203D?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
@@ -233,8 +224,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>3D &amp; Real-Time Interactive Engine</b><br />
-        <sub>Simulation, Real-Time Rendering &amp; World Building</sub>
+        <b>3D &amp; Real-Time Interactive Engine</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Unreal_Engine-25203D?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" alt="Unreal Engine" />
