@@ -116,7 +116,7 @@
   <tr>
     <td colspan="2" valign="top">
       <p>
-        <b>Web, Mobile &amp; Interactive Foundations</b>
+        <b>Web, Mobile, &amp; Interactive Foundations</b>
       </p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-25203D?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
