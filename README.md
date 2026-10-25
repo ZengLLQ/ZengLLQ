@@ -189,7 +189,7 @@
     </td>
     <td width="50%" valign="top">
       <p>
-        <b>Desktop Application &amp; GUI Frameworks</b><br />
+        <b>Desktop Application &amp; GUI</b><br />
         <sub>Native Cross-Platform Shells &amp; Immediate-Mode Interfaces</sub>
       </p>
       <p>
